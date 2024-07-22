@@ -17,7 +17,7 @@ public class Main {
             array[i] = scanner.nextInt();
         }
 
-        // Close the scanner
+        
         scanner.close();
 
         mergeSort(array);
